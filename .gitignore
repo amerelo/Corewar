@@ -1,0 +1,10 @@
+*.o
+*.a
+.*.swp
+._*
+corewar
+asm
+ressources
+.nfs.*
+.DS_Store
+._.DS_Store

@@ -1,0 +1,19 @@
+./corewar test_files/cor_files/MarineKing.cor  test_files/cor_files/MarineKing.cor test_files/cor_files/MarineKing.cor test_files/cor_files/MarineKing.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/_honeybadger.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/valid_aff_instr.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/valid_bad_instr.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/file_not_exist.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/valid_bad_arg_code.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/error_bad_size.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/error_bad_magic.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/error_bad_name_end.cor
+./corewar test_files/cor_files/_.cor  test_files/cor_files/valid_bad_comment_end.cor
+./corewar test_files/big_feet.s  test_files/cor_files/_.cor
+./corewar
+./corewar -c
+./corewar -z
+./corewar -z test_files/big_feet.s  test_files/cor_files/_.cor
+./corewar test_files/big_feet.s
+./corewar test_files/cor_files/error_empty.cor test_files/cor_files/_.cor
+./corewar test_files/cor_files/error_empty2.cor test_files/cor_files/_.cor
+./corewar test_files/cor_files/valid_empty_name.cor test_files/cor_files/_.cor
