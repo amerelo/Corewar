@@ -1,4 +1,7 @@
 # Corewar
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e5c9afd45a14ab5ada8fd5cb71f65f5)](https://app.codacy.com/app/amerelo/Corewar?utm_source=github.com&utm_medium=referral&utm_content=amerelo/Corewar&utm_campaign=Badge_Grade_Settings)
+
 42 Project
 
 >	2 parts project involving the parsing / compilation of an asm written “champion” 
